@@ -47,8 +47,9 @@ We want to predict whether they **Pass** or **Fail** using **KNN with k = 3**.
 
 **Note:** Please show all solutions
 
-**Solving Solution:**
-![solving solution](solving.jpg)
+**Solving Solutio:**           
+<br>
+<img src="solving.jpg" alt="solving solution" width="350" height="700">
 
 
 For the new student, compute the **Euclidean distance** from all data points:
