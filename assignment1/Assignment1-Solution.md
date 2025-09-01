@@ -38,7 +38,7 @@ We want to predict whether they **Pass** or **Fail** using **KNN with k = 3**.
 - Use a star ⭐ for the unknown data point.
 
 **Plot:**
-![Alt text](a1-knn-scatter.png)
+![scatter plot image](a1-knn-scatter.png)
 
 
 ---
@@ -46,6 +46,10 @@ We want to predict whether they **Pass** or **Fail** using **KNN with k = 3**.
 ## 2. Compute Distances (10 points)
 
 **Note:** Please show all solutions
+
+**Solving Solution:**
+![solving solution](solving.jpg)
+
 
 For the new student, compute the **Euclidean distance** from all data points:
 
